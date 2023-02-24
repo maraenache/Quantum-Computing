@@ -27,6 +27,7 @@ Cursul 11: Quantum Fourier transform
 Cursul 12: Algoritmul lui Shor. Hidden Subgroup Problem.
 
 Proiectul realizat in Colaboratory contine informatiile obtinute din cursurile anterioare.
+
 Limbajul utilizat este Python. 
 
 
